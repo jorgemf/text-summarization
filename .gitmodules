@@ -1,0 +1,3 @@
+[submodule "tf-serving"]
+	path = tf-serving
+	url = git@github.com:tensorflow/serving.git
